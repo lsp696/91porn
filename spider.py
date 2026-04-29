@@ -38,8 +38,8 @@ HEADERS = {
 }
 
 # 视频存放目录
-VIDEO_DIR = '/vol2/@apphome/trim.openclaw/data/91porn-spider-master/videos'
-DONEDB_DIR = '/vol2/@apphome/trim.openclaw/data/91porn-spider-master/doneDB'
+VIDEO_DIR = './videos'
+DONEDB_DIR = './doneDB'
 
 # 并发数
 THREADS = 3
